@@ -1,0 +1,10 @@
+.cardBand{
+    position: absolute;
+    top: -1rem;
+    right: 1rem ;
+    font-weight: bold;
+    font-size: 1.5rem;
+    transform: rotate(30deg) translate(50%,50%);
+    transform-origin: center;
+    text-shadow: 1px 1px 5px rgba(154, 125, 23, 0.408);
+}

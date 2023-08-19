@@ -1,0 +1,74 @@
+[
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "platform": "Wii U, Switch",
+    "date": "2017",
+    "goty": true,
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+    "text": "The Legend of Zelda: Breath of the Wild redefined the open-world genre, offering players a vast, immersive landscape to explore. Set in the kingdom of Hyrule, players control Link as he awakens from a deep slumber to defeat the ancient evil Calamity Ganon. The game emphasizes exploration, survival, and creative problem-solving."
+  },
+  {
+    "title": "The Legend of Zelda: A Link to the Past",
+    "platform": "SNES",
+    "date": "1991",
+    "goty": false,
+    "image": "https://s.yimg.com/ny/api/res/1.2/C.BFg3G8sZWx1bEScp6njA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDU-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/c33adfe0-a60b-11ed-a7ea-f0bc3bd534f7",
+    "text": "The Legend of Zelda: A Link to the Past is a classic action-adventure game that takes place in the land of Hyrule. Players control Link as he embarks on a quest to rescue Princess Zelda and defeat the malevolent wizard Agahnim. With its top-down perspective, engaging story, and intricate dungeons, the game became a beloved entry in the Zelda series."
+  },
+  {
+    "title": "The Legend of Zelda: Link's Awakening",
+    "platform": "Game Boy",
+    "date": "1993",
+    "goty": false,
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/74/The_Legend_of_Zelda_Link%27s_Awakening_%282019_video_game%29.jpg",
+    "text": "The Legend of Zelda: Link's Awakening follows Link's journey after being shipwrecked on the mysterious Koholint Island. Players navigate through dungeons and solve puzzles to awaken the Wind Fish and escape the island. The game's unique story and gameplay mechanics made it a standout title in the Zelda series."
+  },
+  {
+    "title": "The Legend of Zelda",
+    "platform": "NES",
+    "date": "1986",
+    "goty": false,
+    "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_TheLegendOfZelda_image1600w.jpg",
+    "text": "The Legend of Zelda is a classic action-adventure video game that follows the journey of Link, a young hero tasked with rescuing Princess Zelda and thwarting the plans of the evil Ganon. Players explore a vast, open world filled with dungeons, puzzles, and iconic characters, using items like the Master Sword and various tools to progress and defeat enemies."
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "platform": "Nintendo 64",
+    "date": "1998",
+    "goty": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Legend_of_Zelda_Ocarina_of_Time_Master_Quest.png/238px-The_Legend_of_Zelda_Ocarina_of_Time_Master_Quest.png",
+    "text": "The Legend of Zelda: Ocarina of Time is a groundbreaking 3D action-adventure game that follows Link's journey through time to thwart Ganondorf's evil plans. With its innovative gameplay mechanics, memorable characters, and epic storyline, Ocarina of Time set new standards for the Zelda series and the gaming industry as a whole."
+  },
+  {
+    "title": "The Legend of Zelda: Majora's Mask",
+    "platform": "Nintendo 64",
+    "date": "2000",
+    "goty": false,
+    "image": "https://www.universozelda.com/wiki/images/thumb/9/94/Logotipo_Majora%27s_Mask_3D.png/250px-Logotipo_Majora%27s_Mask_3D.png",
+    "text": "The Legend of Zelda: Majora's Mask takes a darker and more unique approach, with Link attempting to stop the moon from crashing into Clock Town. The game's time-traveling mechanics and intricate side quests provided players with a distinct and immersive experience."
+  },
+  {
+    "title": "The Legend of Zelda: The Wind Waker",
+    "platform": "GameCube",
+    "date": "2002",
+    "goty": false,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/The_Legend_of_Zelda_The_Wind_Waker.jpg/220px-The_Legend_of_Zelda_The_Wind_Waker.jpg",
+    "text": "The Legend of Zelda: The Wind Waker introduced a cel-shaded art style and a vast ocean to explore. Players control Link as he sets out on a seafaring adventure to rescue his sister and save the kingdom of Hyrule. The game's unique visual design and sailing mechanics received both praise and criticism."
+  },
+  {
+    "title": "The Legend of Zelda: Twilight Princess",
+    "platform": "GameCube, Wii",
+    "date": "2006",
+    "goty": false,
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Legend_of_Zelda_Twilight_Princess_Game_Cover.jpg",
+    "text": "The Legend of Zelda: Twilight Princess follows Link's journey to save Hyrule from being engulfed by the Twilight Realm. The game features a darker tone, impressive dungeons, and the ability for Link to transform into a wolf. It received acclaim for its story and gameplay mechanics."
+  },
+  {
+    "title": "The Legend of Zelda: Skyward Sword",
+    "platform": "Wii",
+    "date": "2011",
+    "goty": false,
+    "image": "https://nichegamer.com/wp-content/uploads/2021/09/the-legend-of-zelda-skyward-sword-hd-09-16-21-1.jpg",
+    "text": "The Legend of Zelda: Skyward Sword explores the origins of the Master Sword and introduces motion-based controls for swordplay and exploration. Players guide Link as he embarks on a quest to rescue Zelda and uncover the secrets of the land of Skyloft."
+  }
+]

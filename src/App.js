@@ -1,23 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { Timeline } from "./components/Timeline/TimeLine";
+import zeldaGames from "./data/zeldaGames.json";
 
 function App() {
+  console.log(zeldaGames);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header>
+        <h1 className="goldText">Zelda Timeline</h1>
       </header>
+      <main>
+        <Timeline data={zeldaGames} />
+      </main>
+      <footer>
+        <p>Noelia Rodríguez - HACK A BOSS 2023©</p>
+      </footer>
     </div>
   );
 }
